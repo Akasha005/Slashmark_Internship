@@ -2,6 +2,7 @@ Description:
 Bard is a user-friendly chatbot designed to engage in informative and interactive conversations. It leverages its knowledge to provide helpful responses to a variety of user queries, fostering a stimulating dialogue experience.
 
 
+
 Key Features:
 *Conversational: Bard excels at understanding and responding to natural language, creating a more natural and engaging interaction.
 *Informative: Bard draws upon its knowledge base to deliver informative answers to your questions, even when faced with limited real-time access (e.g., weather, news).
