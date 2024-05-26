@@ -1,6 +1,7 @@
 Python Voice Assistant
 
 
+
 Features:
 *Speech recognition: Uses Google Speech Recognition to convert your spoken commands to text.
 *Text-to-speech: Converts text responses back to speech using the pyttsx3 library.
