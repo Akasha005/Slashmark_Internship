@@ -26,6 +26,7 @@ Customization:
 *Change the minimum number of required uppercase letters and numbers.
 *Include special characters in the password generation.
 
+  
 
 import random
 import string  # Import string module for easier character access
