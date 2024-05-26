@@ -14,6 +14,7 @@ Simply type your questions or prompts into the console, and Bard will do its bes
 
 
 
+
 def greet(user_input):
     """Greets the user based on input"""
     if user_input.lower() in ["hi", "hello", "hey"]:
